@@ -33,4 +33,4 @@ function sub = Sub(x1, x2)
     
 end
 
-r = r*a*b
+r = r*a
