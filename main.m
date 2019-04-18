@@ -1,3 +1,5 @@
+% este o programa principal
+% a e b precisam ser interios possitivos
 
 a = 5;
 
@@ -25,7 +27,7 @@ function sub = Sub(x1, x2)
     %
     % Syntax: sum = Sum(a,b)
     %
-    % Long description
+    Long description
     
         sum = x1 - x2
     
