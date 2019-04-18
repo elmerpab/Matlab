@@ -1,3 +1,5 @@
+% este o programa principal
+% a e b precisam ser interios possitivos
 
 a = 5;
 
