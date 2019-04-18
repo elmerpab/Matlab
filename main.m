@@ -29,4 +29,6 @@ function sub = Sub(x1, x2)
     
         sum = x1 - x2
     
-    end
+end
+
+r = r*a*b
