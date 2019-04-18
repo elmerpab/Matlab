@@ -1,0 +1,27 @@
+function y= funcaooperaco(x1,x2)
+
+y(1) = Sum(x1,x2);
+y(1) = Sub(x1,x2);
+
+
+
+function y = Sum(x1, x2)
+%myFun - Description
+%
+% Syntax: sum = Sum(a,b)
+%
+% Long description
+
+    sum = x1 + x2
+
+
+
+function sub = Sub(x1, x2)
+    %myFun - Description
+    %
+    % Syntax: sum = Sum(a,b)
+    %
+    Long description
+    
+        sub = x1 - x2
+    
