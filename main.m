@@ -1,10 +1,3 @@
-% este o programa principal
-% a e b precisam ser interios possitivos
-
-a = 5;
-
-b = 3;
-
 Sum(a, b)
 
 
